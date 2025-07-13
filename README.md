@@ -1,5 +1,5 @@
 # dashboard-vendas
-Dasboard fictício sobre as vendas de umpresa que comercializa bebidas e alguns acessórios.
+Dasboard fictício sobre as vendas de empresa que comercializa bebidas e alguns acessórios.
 # Análise de Vendas - Bebidas
 
 Este projeto foi desenvolvido inicialmente numa planilha de Excel, posteriomente importando para o banco de dados MySQL onde realizei algumas melhorias e com os dados estruturados, organizei uma simples apresentação no Power BI com o objetivo de analisar as vendas por perfil de clientes e produtos.
